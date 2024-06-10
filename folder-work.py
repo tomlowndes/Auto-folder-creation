@@ -64,7 +64,7 @@ def create_project_folders():
     project_name = input("Enter the project name: ")
 
     # Define the base path based on project type
-    base_path = r"D:\Vault\My files\@projects"
+    base_path = r"C:\Users\Tom\Proton Drive\eartquakepersimmon\My files\@projects"
 
     # Create the main folder
     main_folder_path = os.path.join(base_path, project_folder, project_name)
